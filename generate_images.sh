@@ -6,18 +6,11 @@ fg=white
 bg=black
 
 function run() {
-    echo "#!/bin/sh" > $1.sh
-    #echo "echo $1" >> $1.sh
-    #echo "echo $font $size" >> $1.sh
-    cat script.sh >> $1.sh
-    echo "sleep 5" >> $1.sh
-    echo "ls -l /var" >> $1.sh
-    chmod +x $1.sh
     echo $*
     if [ $1 == "emacs" ]; then
 	"$@" text.txt &
     else
-	"$@" ./$1.sh &
+	"$@" /bin/sh -c "cat text.txt && read" &
     fi
     pid=$!
     sleep 0.5
@@ -51,3 +44,5 @@ done
 
 xrdb < ~/.Xresources
 echo done
+
+ruby generate_readme.rb > README.md
