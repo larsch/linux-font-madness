@@ -1,10 +1,4 @@
 #!/bin/sh
-text=<<EOF
-EOF
-
-
-echo $text
-
 font=Monaco
 boldfont=$font
 size=10
