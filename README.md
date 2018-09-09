@@ -1,4 +1,7 @@
-# Consolas-10
+# Linux Font Madness
+Shitty inconsistent font rendering across Linux terminals and editors
+
+## Consolas-10
 
 ![Consolas_10_emacs.png](  https://raw.githubusercontent.com/larsch/linux-font-madness/master/images/Consolas_10_emacs.png)
 *emacs*
@@ -12,7 +15,7 @@
 ![Consolas_10_xterm.png](  https://raw.githubusercontent.com/larsch/linux-font-madness/master/images/Consolas_10_xterm.png)
 *xterm*
 
-# Consolas-11
+## Consolas-11
 
 ![Consolas_11_emacs.png](  https://raw.githubusercontent.com/larsch/linux-font-madness/master/images/Consolas_11_emacs.png)
 *emacs*
@@ -26,7 +29,7 @@
 ![Consolas_11_xterm.png](  https://raw.githubusercontent.com/larsch/linux-font-madness/master/images/Consolas_11_xterm.png)
 *xterm*
 
-# Consolas-12
+## Consolas-12
 
 ![Consolas_12_emacs.png](  https://raw.githubusercontent.com/larsch/linux-font-madness/master/images/Consolas_12_emacs.png)
 *emacs*
@@ -40,7 +43,7 @@
 ![Consolas_12_xterm.png](  https://raw.githubusercontent.com/larsch/linux-font-madness/master/images/Consolas_12_xterm.png)
 *xterm*
 
-# Monaco-10
+## Monaco-10
 
 ![Monaco_10_emacs.png](  https://raw.githubusercontent.com/larsch/linux-font-madness/master/images/Monaco_10_emacs.png)
 *emacs*
@@ -54,7 +57,7 @@
 ![Monaco_10_xterm.png](  https://raw.githubusercontent.com/larsch/linux-font-madness/master/images/Monaco_10_xterm.png)
 *xterm*
 
-# Monaco-11
+## Monaco-11
 
 ![Monaco_11_emacs.png](  https://raw.githubusercontent.com/larsch/linux-font-madness/master/images/Monaco_11_emacs.png)
 *emacs*
@@ -68,7 +71,7 @@
 ![Monaco_11_xterm.png](  https://raw.githubusercontent.com/larsch/linux-font-madness/master/images/Monaco_11_xterm.png)
 *xterm*
 
-# Monaco-12
+## Monaco-12
 
 ![Monaco_12_emacs.png](  https://raw.githubusercontent.com/larsch/linux-font-madness/master/images/Monaco_12_emacs.png)
 *emacs*
@@ -82,7 +85,7 @@
 ![Monaco_12_xterm.png](  https://raw.githubusercontent.com/larsch/linux-font-madness/master/images/Monaco_12_xterm.png)
 *xterm*
 
-# Monospace-10
+## Monospace-10
 
 ![Monospace_10_emacs.png](  https://raw.githubusercontent.com/larsch/linux-font-madness/master/images/Monospace_10_emacs.png)
 *emacs*
@@ -96,7 +99,7 @@
 ![Monospace_10_xterm.png](  https://raw.githubusercontent.com/larsch/linux-font-madness/master/images/Monospace_10_xterm.png)
 *xterm*
 
-# Monospace-11
+## Monospace-11
 
 ![Monospace_11_emacs.png](  https://raw.githubusercontent.com/larsch/linux-font-madness/master/images/Monospace_11_emacs.png)
 *emacs*
@@ -110,7 +113,7 @@
 ![Monospace_11_xterm.png](  https://raw.githubusercontent.com/larsch/linux-font-madness/master/images/Monospace_11_xterm.png)
 *xterm*
 
-# Monospace-12
+## Monospace-12
 
 ![Monospace_12_emacs.png](  https://raw.githubusercontent.com/larsch/linux-font-madness/master/images/Monospace_12_emacs.png)
 *emacs*
